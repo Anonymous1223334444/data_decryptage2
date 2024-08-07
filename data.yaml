@@ -1,0 +1,6 @@
+train: ./train/images
+test: ./test/images
+
+
+nc: 4
+names: ['attend', 'aurevoir', 'merci', 'salut']
